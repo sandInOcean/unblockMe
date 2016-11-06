@@ -1,0 +1,45 @@
+Enter 6*6 Board Configurations
+Enter Brick Number you want to send out Door position is at 3,7
+Solution Found !
+
+1-Down 2 times
+7-Up 1 times
+10-Right 1 times
+11-Right 1 times
+1-Down 1 times
+6-Left 1 times
+2-Down 3 times
+3-Left 1 times
+5-Up 1 times
+6-Right 1 times
+1-Up 1 times
+9-Up 1 times
+10-Right 1 times
+4-Down 1 times
+11-Left 1 times
+4-Down 1 times
+6-Right 1 times
+8-Up 3 times
+6-Left 1 times
+4-Up 2 times
+10-Left 1 times
+9-Down 1 times
+5-Down 1 times
+3-Right 1 times
+11-Right 1 times
+1-Down 1 times
+6-Left 1 times
+2-Up 3 times
+6-Right 1 times
+1-Up 1 times
+10-Left 1 times
+7-Down 2 times
+10-Left 1 times
+4-Down 1 times
+11-Left 1 times
+4-Down 1 times
+6-Right 2 times
+2-Down 1 times
+3-Left 1 times
+5-Up 1 times
+6-Right 1 times
